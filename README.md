@@ -1,5 +1,4 @@
 # Twitter Bot Sample
-A sample Twitter bot in Python - created by [@ykdojo](https://github.com/ykdojo). This is part of the [Edit Dojo](https://github.com/ykdojo/editdojo) project.
 
 ---
 
@@ -8,10 +7,6 @@ A sample Twitter bot in Python - created by [@ykdojo](https://github.com/ykdojo)
 ### How to install Tweepy
 
 First, check your Python version with ``python3 --version`` or ``python --version`` on console (terminal/shell/command prompt).
-
-#### If you don't have Python 3 installed (if the above command fails):
-
-Either install Python 3 on your computer OR use something like PythonAnywhere (https://csdojo.io/py).
 
 #### If you have Python 3.6, you can just run:
 
